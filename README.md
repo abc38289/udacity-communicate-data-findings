@@ -2,18 +2,16 @@
 
 Jerry Liu created this project on January 1, 2024
 
-### Project title
+## Project: Ford Gobike Data Exploration
 
-Ford Gobike Data Exploration
-
-### Description
+## Description
 This dataset is taken from Ford GoBike System Data and represents trips taken by members of the service for month of February of 2019.
 
 **Content**
 
 Data consists of info about trips taken by service's members, their types, their age, their gender, stations of starting and ending trips, duration of trips etc.
 
-### Summary of Main Findings:
+## Summary of Main Findings:
 
 **1. Trip Duration Distribution:**
 
@@ -60,7 +58,7 @@ Data consists of info about trips taken by service's members, their types, their
 - The male count far exceeds the female count, consistent with the known demographics.
 - In the context of a 10-minute ride duration, males of all age groups show consistent numbers, while females, especially those over 40, exhibit a noticeable decrease.
 
-### Reflection on Data Exploration Steps:
+## Reflection on Data Exploration Steps:
 
 **1. Univariate Exploration:**
 
